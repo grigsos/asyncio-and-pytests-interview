@@ -49,7 +49,7 @@
         {
             "name":"task9",
             "type":"eval",
-            "arguments": "import time; time.sleep(1); print('task 9 done')",
+            "arguments": "import time; time.sleep(100); print('task 9 done')",
             "dependencies": ["task6", "task2"]
         }       
     ]
