@@ -1,0 +1,9 @@
+task 1: OK
+task 2: OK
+task 3: OK
+task 4: OK
+task 5: OK
+task 6: failed
+task 7: OK
+task 8: OK
+task 9: skipped
